@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Morisho nyembo delphin</h1>
-<h3 align="center">A passionate frontend developer and backend from DRC</h3>
+<h3 align="center">A passionate backend and frontend developer from DRC,Butembo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyembo24&label=Profile%20views&color=0e75b6&style=flat" alt="nyembo24" /> </p>
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/morisho nyembo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="morisho nyembo" height="30" width="40" /></a>
 <a href="https://fb.com/morisho nyembo (musa)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="morisho nyembo (musa)" height="30" width="40" /></a>
-<a href="/l2iage.uaclab.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="l2iage.uaclab.net" height="30" width="40" /></a>
+<a href="l2iage.uaclab.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="l2iage.uaclab.net" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
