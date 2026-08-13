@@ -56,6 +56,4 @@
   <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyembo24" />
-</p>
+
