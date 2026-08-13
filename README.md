@@ -56,13 +56,6 @@
   <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nyembo24&show_icons=true&locale=en" />
-</p>
-
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyembo24" />
 </p>
